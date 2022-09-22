@@ -1,4 +1,4 @@
 # Inalyst-Credit-Scoring-Challenge
-For competition purpose (space, space, Enter)
+For competition purpose
 
 I won the competition (1st place)
